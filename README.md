@@ -4,9 +4,9 @@
 
 ##EXAMPLES OF WORK 
 
-Mobile App: Happy Contact Lens Wearer <br>
-![Diagnose](https://user-images.githubusercontent.com/98254788/150837232-987c5444-7751-4376-a248-718c09f925e7.jpg)DIAGNOSE ME PAGE
-![Reminder](https://user-images.githubusercontent.com/98254788/150837237-8582325b-4013-4d6e-b1b8-be4997c749be.jpg)REMINDER PAGE
+Mobile App: Happy Contact Lens Wearer <br> <br>
+![Diagnose](https://user-images.githubusercontent.com/98254788/150837232-987c5444-7751-4376-a248-718c09f925e7.jpg)DIAGNOSE ME PAGE<br>
+![Reminder](https://user-images.githubusercontent.com/98254788/150837237-8582325b-4013-4d6e-b1b8-be4997c749be.jpg)REMINDER PAGE <br>
 ![Care](https://user-images.githubusercontent.com/98254788/150837240-282e4efd-3319-4e73-9f8a-3bed2ffde429.jpg)CARE PAGE
 
 
