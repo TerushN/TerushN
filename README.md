@@ -5,9 +5,10 @@
 ##EXAMPLES OF WORK 
 
 Mobile App: Happy Contact Lens Wearer 
+![Diagnose](https://user-images.githubusercontent.com/98254788/150837232-987c5444-7751-4376-a248-718c09f925e7.jpg)#DIGNOSE ME PAGE
+![Reminder](https://user-images.githubusercontent.com/98254788/150837237-8582325b-4013-4d6e-b1b8-be4997c749be.jpg)#REMONDER PAGE
+![Care](https://user-images.githubusercontent.com/98254788/150837240-282e4efd-3319-4e73-9f8a-3bed2ffde429.jpg)#CARE PAGE
 
-![Menu](https://user-images.githubusercontent.com/98254788/150671886-00040eb6-c0d8-43eb-8d02-ef8020cb9b96.jpg)
-![Diagnose](https://user-images.githubusercontent.com/98254788/150836866-a7cbe503-26a9-4051-986b-b98a269e2cbb.jpg)
 
 <!---
 TerushN/TerushN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
