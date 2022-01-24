@@ -7,8 +7,7 @@
 Mobile App: Happy Contact Lens Wearer 
 
 ![Menu](https://user-images.githubusercontent.com/98254788/150671886-00040eb6-c0d8-43eb-8d02-ef8020cb9b96.jpg)
-![Screenshot_20180110-195751](https://user-images.githubusercontent.com/98254788/150671900-3a03e8d2-449f-4eae-8631-1342c6c5905d.png)
-![Screenshot_20180110-195804](https://user-images.githubusercontent.com/98254788/150671904-45cc21c9-1665-4675-b582-ed8bb224e3e1.png)
+![Diagnose](https://user-images.githubusercontent.com/98254788/150836866-a7cbe503-26a9-4051-986b-b98a269e2cbb.jpg)
 
 <!---
 TerushN/TerushN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
